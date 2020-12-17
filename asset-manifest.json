@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Ethereum-wallet/static/css/main.2e4d5be8.chunk.css",
+    "main.js": "/Ethereum-wallet/static/js/main.6b8215e9.chunk.js",
+    "main.js.map": "/Ethereum-wallet/static/js/main.6b8215e9.chunk.js.map",
+    "runtime-main.js": "/Ethereum-wallet/static/js/runtime-main.abdf3dcc.js",
+    "runtime-main.js.map": "/Ethereum-wallet/static/js/runtime-main.abdf3dcc.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Ethereum-wallet/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.c68ca019.chunk.js": "/Ethereum-wallet/static/js/2.c68ca019.chunk.js",
+    "static/js/2.c68ca019.chunk.js.map": "/Ethereum-wallet/static/js/2.c68ca019.chunk.js.map",
+    "static/js/3.845dcd57.chunk.js": "/Ethereum-wallet/static/js/3.845dcd57.chunk.js",
+    "static/js/3.845dcd57.chunk.js.map": "/Ethereum-wallet/static/js/3.845dcd57.chunk.js.map",
+    "index.html": "/Ethereum-wallet/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Ethereum-wallet/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.2e4d5be8.chunk.css.map": "/Ethereum-wallet/static/css/main.2e4d5be8.chunk.css.map",
+    "static/js/2.c68ca019.chunk.js.LICENSE.txt": "/Ethereum-wallet/static/js/2.c68ca019.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abdf3dcc.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.c68ca019.chunk.js",
+    "static/css/main.2e4d5be8.chunk.css",
+    "static/js/main.6b8215e9.chunk.js"
+  ]
+}

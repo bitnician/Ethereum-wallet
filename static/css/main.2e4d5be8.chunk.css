@@ -1,0 +1,2 @@
+.loader{border:16px solid #f3f3f3;border-top-color:#3498db;border-radius:50%;width:5px;height:5px;-webkit-animation:spin 2s linear infinite;animation:spin 2s linear infinite}@-webkit-keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.nav-item:not(:last-child){margin-right:20px}
+/*# sourceMappingURL=main.2e4d5be8.chunk.css.map */
